@@ -155,5 +155,14 @@ _example of solution path using rooms allowing paths:_
 
 ![Capture6](https://user-images.githubusercontent.com/98721077/155422506-a92aeccd-8f2c-4f36-a7d4-9ec963650150.PNG)
 
+## Specs
+Inspiration for this project:
+ * http://tinysubversions.com/spelunkyGen/
+ * http://pcg.wikidot.com/pcg-algorithm:dungeon-generation
+
+Tiles used from Adam Saltsman's Cavernas: https://adamatomic.itch.io/cavernas
+
+Uses love2D framework: https://love2d.org/
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
